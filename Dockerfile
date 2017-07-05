@@ -1,0 +1,1 @@
+FROM joshuacox/mkdomoticz:arm
